@@ -8,7 +8,7 @@ It is designed in a way that the user can set the method that triggers the proce
 Install directly via github
 
 ```
-pip install git+https://www.github.com/pedro_amad0/batch_processor@main  # replace @main with @branchname for other branches
+pip install git+https://www.github.com/pedro-peixot0/batch_processor@main  # replace @main with @branchname for other branches
 ```
 
 ## Usage ##

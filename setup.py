@@ -9,7 +9,7 @@ setup(
     description='A library for batch processing of data with custom conditions and processing functions.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/pedro_amad0/batch_processor',
+    url='https://github.com/pedro-peixot0/batch_processor',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
